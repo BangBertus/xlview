@@ -1,0 +1,40 @@
+Thank you for downloading XLView
+https://sourceforge.net/projects/xlview/
+
+XLView is an open source Multi Purpose Image Viewer written in c++ with FLTK toolkit library.
+
+Requirements for Compiling :
+C/C++ compiler and FLTK library(version 1.3 or better).
+
+Compiling from Source :
+Type make
+
+Installing from Source :
+Type make install
+Or
+Type make [DESTDIR] install
+Where DESTDIR is your destination location.
+
+Uninstalling from Source :
+Type make uninstall
+
+If your distribution is Tiny Core Linux , you can create extension :
+Type Make tcz
+
+
+Contact and bug reports :
+nimdays[at]gmail.com
+Or visit 
+https://sourceforge.net/projects/xlview/
+
+Credits :
+FLTK developers for their nice toolkit.
+
+License :
+The source code is distributed under the GNU General Public Licence version 2.
+See license for full text.
+
+
+
+Thank you for reading.
+Terima kasih sudah membaca.

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=XLView
+Exec=xlview
+Icon=xlview
+X-FullPathIcon=/usr/local/share/pixmaps/xlview.png
+Categories=Utility
