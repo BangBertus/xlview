@@ -1,5 +1,6 @@
 Thank you for downloading XLView
 https://sourceforge.net/projects/xlview/
+https://github.com/nimday/xlview/
 
 XLView is an open source Multi Purpose Image Viewer written in c++ with FLTK toolkit library.
 
@@ -26,6 +27,7 @@ Contact and bug reports :
 nimdays[at]gmail.com
 Or visit 
 https://sourceforge.net/projects/xlview/
+https://github.com/nimday/xlview/
 
 Credits :
 FLTK developers for their nice toolkit.
